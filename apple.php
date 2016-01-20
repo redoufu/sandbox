@@ -13,6 +13,10 @@ class apple{
     public function getColor(){
         return $this->color;
     }
+    
+    public function getWeight(){
+        return $this->weight;
+    }
 
 }
 

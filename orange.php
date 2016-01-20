@@ -19,6 +19,7 @@ class Orange{
     }
     public orange1(){}
     public orange2(){}
+    public orange3(){}
 }
 
 ?>

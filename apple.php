@@ -18,6 +18,11 @@ class apple{
         return $this->weight;
     }
 
+    public function getSize(){
+        return $this->size;
+    }
+
+
 }
 
 ?>

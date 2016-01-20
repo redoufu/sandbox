@@ -1,5 +1,5 @@
 <?php
-class apple{
+class Bananer{
     public $color;
     public $weight;
     public $size;

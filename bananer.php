@@ -17,7 +17,7 @@ class Bananer{
     public function getWeight(){
         return $this->weight;
     }
-
+    public function bannaer1(){}
 }
 
 ?>

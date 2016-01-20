@@ -22,7 +22,7 @@ class apple{
         return $this->size;
     }
 
-
+    public function foo1(){}
 }
 
 ?>

@@ -17,9 +17,9 @@ class Orange{
     public function getWeight(){
         return $this->weight;
     }
-    public orange1(){}
-    public orange2(){}
-    public orange3(){}
+    public function orange1(){}
+    public function orange2(){}
+    public function orange3(){}
 }
 
 ?>

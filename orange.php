@@ -18,6 +18,7 @@ class Orange{
         return $this->weight;
     }
     public orange1(){}
+    public orange2(){}
 }
 
 ?>

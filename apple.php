@@ -23,6 +23,7 @@ class apple{
     }
 
     public function foo1(){}
+    public function foo2(){}
 }
 
 ?>
